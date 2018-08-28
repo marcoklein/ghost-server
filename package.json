@@ -1,0 +1,21 @@
+{
+  "name": "ghost-server",
+  "version": "1.0.0",
+  "description": "A simple ghost server using npm for easy upgrading.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ghost",
+    "blog",
+    "blogging",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Marco Klein",
+  "license": "ISC",
+  "dependencies": {
+    "ghost": "2.*"
+  }
+}
