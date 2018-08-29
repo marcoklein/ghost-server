@@ -1,9 +1,5 @@
 {
-    "url": "https://blog.kleinprojects.com",
-    "server": {
-        "host": "127.0.0.1",
-        "port": 2368
-    },
+    "urlSSL": "https://blog.kleinprojects.com",
     "database": {
         "client": "sqlite3",
         "connection": {
