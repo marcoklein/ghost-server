@@ -1,5 +1,5 @@
 {
-    "url": "blog.kleinprojects.com"
+    "url": "blog.kleinprojects.com",
     "database": {
         "client": "sqlite3",
         "connection": {
