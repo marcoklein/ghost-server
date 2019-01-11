@@ -16,6 +16,6 @@
   "author": "Marco Klein",
   "license": "ISC",
   "dependencies": {
-    "ghost": "2.*"
+    "ghost": "^2.10.1"
   }
 }
